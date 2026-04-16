@@ -1,0 +1,3 @@
+// Abstraction is the process of hiding the implementation details and showing only the functionality to the user. In C++, abstraction is achieved through abstract classes and interfaces. An abstract class is a class that cannot be instantiated and is used as a base class for other classes. It contains at least one pure virtual function, which is a function that has no implementation and must be overridden by derived classes. An interface is a collection of pure virtual functions that define a contract for classes that implement the interface. Abstraction allows us to focus on what an object does rather than how it does it, which helps in reducing complexity and increasing code reusability.
+// 
+// 
